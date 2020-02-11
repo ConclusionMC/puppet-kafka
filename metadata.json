@@ -1,12 +1,12 @@
 {
-  "name": "puppet-kafka",
+  "name": "cmc-kafka",
   "version": "5.3.1",
   "author": "Vox Pupuli",
   "summary": "Puppet module for Kafka",
   "license": "MIT",
-  "source": "https://github.com/voxpupuli/puppet-kafka",
-  "project_page": "https://github.com/voxpupuli/puppet-kafka",
-  "issues_url": "https://github.com/voxpupuli/puppet-kafka/issues",
+  "source": "https://github.com/ConclusionMC/puppet-kafka",
+  "project_page": "https://github.com/ConclusionMC/puppet-kafka",
+  "issues_url": "https://github.com/ConclusionMC/puppet-kafka/issues",
   "dependencies": [
     {
       "name": "puppet/archive",
@@ -61,7 +61,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 4.10.0 < 6.0.0"
+      "version_requirement": ">= 4.10.0 < 7.0.0"
     }
   ],
   "tags": [
